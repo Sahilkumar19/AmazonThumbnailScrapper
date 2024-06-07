@@ -7,7 +7,7 @@ This project is a Python script designed to scrape Amazon product pages to extra
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/amazon-product-thumbnail-scraper.git
+    git clone https://github.com/Sahilkumar19/amazon-product-thumbnail-scraper.git
     ```
 
 2. Navigate to the project directory:
@@ -26,10 +26,10 @@ This project is a Python script designed to scrape Amazon product pages to extra
 
 1. Prepare a CSV file containing a list of Amazon product links under the column name `ProductLink`.
 
-2. Run the Python script `Amazon.py`:
+2. Run the Python script `AmazonThumnails.py`:
 
     ```bash
-    python Amazon.py
+    python AmazonThumbnails.py
     ```
 
 3. The script will fetch thumbnail URLs for each product link and save them to a new CSV file named `thumbnails.csv`.
